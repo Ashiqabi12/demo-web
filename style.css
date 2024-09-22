@@ -1,0 +1,19 @@
+header{
+  width: 100vw;
+  height: 60px;
+  overflow: hidden;
+  border-bottom:solid 1px ;color: white;
+  position: fixid;
+  top: 0;
+  background-color: white;
+  display: flex;
+  align-items: centre;
+  justify-content: centre;
+}
+header img{
+  width: 140px;
+}
+
+h1{
+  margin top: 70px;
+}
